@@ -15,3 +15,5 @@ ricklu@android-build4:~/workspace/Git_Swim_test/Swim$ git pull origin master
 From https://github.com/hughlu01/Swim
  * branch            master     -> FETCH_HEAD
 Already up-to-date.
+
+# test git push code and file
