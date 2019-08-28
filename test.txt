@@ -1,1 +1,13 @@
 WWWWWGGGS
+
+
+
+test  git reset --soft HEAD^
+1. git add
+2. git commit
+3. git status
+4. git push
+5. git reset --soft 
+
+========
+git reset --soft HEAD^ after modify
